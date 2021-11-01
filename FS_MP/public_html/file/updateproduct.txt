@@ -1,0 +1,21 @@
+Product Name :Espresso Con Panna
+Category ID :2
+Distributer ID :3
+Price :350
+Stock :100
+Date :2021-07-18
+
+Product Name :Cappu
+Category ID :6
+Distributer ID :2
+Price :235
+Stock :175
+Date :2021-07-18
+
+Product Name :Cappuccinos
+Category ID :6
+Distributer ID :2
+Price :235
+Stock :175
+Date :2021-07-19
+

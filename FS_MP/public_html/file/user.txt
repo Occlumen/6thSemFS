@@ -1,0 +1,15 @@
+Name :Navya  N
+Email :navya@gmail.com
+Password :$2y$10$CiANYGt6V3z6oiO33b6Iju6m9hFw94GbGtai1swM3GG5AJX602SvK
+Employeetype :Admin
+
+Name :Nikita  Singh
+Email :nikita@gmail.com
+Password :$2y$10$vK0yuPcfvdKawJuK7GLUn.ArhAU6vriX9vROBjTsyO1yGj8TCDwlO
+Employeetype :Admin
+
+Name :Amu
+Email :amu@gmail.com
+Password :$2y$10$13E168e/33LPbTDlfKsrwOUFLsH3LV.iyhGEItuagyynQnPtT/cci
+Employeetype :Receptionist
+

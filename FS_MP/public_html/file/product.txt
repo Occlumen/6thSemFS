@@ -1,0 +1,56 @@
+Product Name :Blonde Roast
+Category ID :1
+Distributer ID :1
+Price :220
+Stock :200
+Date :2021-07-18
+
+Product Name :Cappuccino
+Category ID :6
+Distributer ID :2
+Price :235
+Stock :175
+Date :2021-07-18
+
+Product Name :Con Panna
+Category ID :2
+Distributer ID :3
+Price :350
+Stock :100
+Date :2021-07-18
+
+Product Name :Caffe Latte 
+Category ID :4
+Distributer ID :2
+Price :275
+Stock :250
+Date :2021-07-18
+
+Product Name :Deleted
+Category ID :1
+Distributer ID :4
+Price :234
+Stock :123
+Date :
+
+Product Name :Deleted
+Category ID :1
+Distributer ID :6
+Price :175
+Stock :175
+Date :2021-07-18
+
+Product Name :Deleted
+Category ID :1
+Distributer ID :5
+Price :235
+Stock :100
+Date :2021-07-19
+
+Product Name :Caffe 
+Category ID :5
+Distributer ID :1
+Price :225
+Stock :100
+Date :2021-07-19
+

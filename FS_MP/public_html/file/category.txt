@@ -1,0 +1,36 @@
+Category :Brewed Coffee
+Parent Category :0
+
+Category :Espresso Shots
+Parent Category :0
+
+Category :Flat Whites
+Parent Category :0
+
+Category :Lattes
+Parent Category :0
+
+Category :Macchiatos
+Parent Category :0
+
+Category :Cappuccinos
+Parent Category :0
+
+Category :Deleted
+Parent Category :0
+
+Category :Deleted
+Parent Category :0
+
+Category :Deleted
+Parent Category :0
+
+Category :Deleted
+Parent Category :0
+
+Category :Deleted
+Parent Category :0
+
+Category :Deleted
+Parent Category :0
+
